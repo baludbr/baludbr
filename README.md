@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Computer Science and Engineering enthusiast at K L University with a stellar CGPA of 9.87, showcasing excellence from high school to college. Experienced in AI and ML through an impactful AICTE internship, with AWS Academy proficiency. As a Student Peer Mentor at KL University and Director of Community at Kognitiv Club, I've nurtured peers and crafted immersive AI and ML learning journeys. Proficient in C, Java, Python, HTML, CSS, Git, data structures, PostgreSQL, and ML frameworks (Django, Flask, React, Pandas). I did hands-on projects include KLCropoo (MERN Stack) and Budget Boss (Django, PostgreSQL, Chartjs, Matplotlib). I am certified in Red Hat, AWS, and Microsoft Azure and i proud to say that i am a topper and gold medalist in Java programming from NPTEL, IIT Kharagpur. Techgig Code Gladiators 2023 finalist, volunteer with Swecha Organization, and versatile beyond coding—avid traveler, dedicated reader, skilled event manager, and designer. Scholarship badges attest to my pursuit of excellence. Ready to contribute meaningfully to the tech landscape.
-
+I am a Computer Science and Engineering enthusiast at K L University with a stellar CGPA of 9.87, showcasing excellence from high school to college. Experienced in AI and ML through an impactful AICTE internship, with AWS Academy proficiency. As a Student Peer Mentor at KL University and Director of Community at Kognitiv Club, I've nurtured peers and crafted immersive AI and ML learning journeys. Proficient in C, Java, Python, HTML, CSS, Git, data structures, PostgreSQL, and ML.
 * 🌍  I'm based in Vijayawada
 * 🖥️  See my portfolio at [Balaji Reddy](http://dbr.netlify.app)
 * ✉️  You can contact me at [kognitivclub@gmail.com](mailto:kognitivclub@gmail.com)
@@ -31,7 +30,5 @@ I am a Computer Science and Engineering enthusiast at K L University with a stel
 <a href="http://www.github.com/baludbr"><img src="https://github-readme-stats.vercel.app/api?username=baludbr&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baludbr's GitHub stats" /></a>
 
 <a href="http://www.github.com/baludbr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baludbr&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/baludbr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=baludbr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/baludbr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baludbr&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
