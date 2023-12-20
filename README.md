@@ -7,7 +7,7 @@ Full Stack Developer
 I am a Computer Science and Engineering enthusiast at K L University with a stellar CGPA of 9.87, showcasing excellence from high school to college. Experienced in AI and ML through an impactful AICTE internship, with AWS Academy proficiency. As a Student Peer Mentor at KL University and Director of Community at Kognitiv Club, I've nurtured peers and crafted immersive AI and ML learning journeys. Proficient in C, Java, Python, HTML, CSS, Git, data structures, PostgreSQL, and ML.
 * 🌍  I'm based in Vijayawada
 * 🖥️  See my portfolio at [Balaji Reddy](http://dbr.netlify.app)
-* ✉️  You can contact me at [kognitivclub@gmail.com](mailto:dwarampudibalajireddy@gmail.com)
+* ✉️  You can contact me at [gmail](mailto:dwarampudibalajireddy@gmail.com)
 * 🧠  I'm learning OpenCV,DeepLearning,TensorFlow
 * 🤝  I'm open to collaborating on Django,Nodejs,SpringBoot Projects
 
