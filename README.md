@@ -25,17 +25,12 @@ I am a Computer Science and Engineering enthusiast at K L University with a stel
 
 
 
+### Badges
 
+<b>My GitHub Stats</b>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<a href="http://www.github.com/baludbr"><img src="https://github-readme-stats.vercel.app/api?username=baludbr&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baludbr's GitHub stats" /></a>
 
-###
+<a href="http://www.github.com/baludbr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baludbr&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<a href="https://github.com/baludbr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baludbr&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
