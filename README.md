@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D Balaji Reddy
 ======================================================================================================================================
 
-Full Stack Developer
+Backend Developer
 --------------------
 
 I am a Computer Science and Engineering enthusiast at K L University with a stellar CGPA of 9.87, showcasing excellence from high school to college. Experienced in AI and ML through an impactful AICTE internship, with AWS Academy proficiency. As a Student Peer Mentor at KL University and Director of Community at Kognitiv Club, I've nurtured peers and crafted immersive AI and ML learning journeys. Proficient in C, Java, Python, HTML, CSS, Git, data structures, PostgreSQL, and ML.
